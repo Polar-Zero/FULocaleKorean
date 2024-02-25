@@ -49,3 +49,23 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1653383122
 https://steamcommunity.com/sharedfiles/filedetails/?id=807695810
 https://steamcommunity.com/sharedfiles/filedetails/?id=1825650768
 https://steamcommunity.com/sharedfiles/filedetails/?id=754350883
+
+
+★ 쉬운 기여 방법
+
+1. https://central.github.com/deployments/desktop/desktop/latest/win32 해당 링크에서 Github Desktop을 다운로드받습니다.
+![image](https://github.com/Polar-Zero/FULocaleKorean/assets/47028319/85736fbf-773a-44d3-be13-03e150d56012)
+
+2. FIle > Clone Repository > URL 을 선택해주세요
+
+![image](https://github.com/Polar-Zero/FULocaleKorean/assets/47028319/cf74aaf6-df9a-44a1-95df-fee0453625de)
+3. ( https://github.com/Polar-Zero/FULocaleKorean.git ) 괄호 안의 링크를 복사한 뒤 로컬 경로를 지정하고 Clone 버튼을 눌러주세요
+
+4. 3번에서 설정한 로컬 경로로 이동한 뒤, Excel 등 스프레드시트 편집이 가능한 프로그램을 열고 파일을 드래그&드랍으로 불러와주세요
+
+5. 열린 tsv 파일에 기여하시면 됩니다.
+ 
+6. tsv 저장시에 tsv 파일 유형을 수동으로 선택하신 뒤, 같은 이름으로 덮어써서 저장해주세요 (xlsx 파일로 편집은 가능하나, 최신 기여분이 반영되지 않아 중복 기여의 가능성이 있습니다)
+파일 > e
+
+8. 기여한 텍스트가 저장된 tsv파일을 Pull Request로 전송해주시거나 디스코드에 업로드 ( https://github.com/Polar-Zero/FULocaleKorean ) 해주시면 확인 후 모드 내용 및 기여자에 반영하겠습니다!
