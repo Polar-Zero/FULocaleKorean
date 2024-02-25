@@ -59,6 +59,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=754350883
 2. FIle > Clone Repository > URL 을 선택해주세요
 
 ![image](https://github.com/Polar-Zero/FULocaleKorean/assets/47028319/cf74aaf6-df9a-44a1-95df-fee0453625de)
+
 3. ( https://github.com/Polar-Zero/FULocaleKorean.git ) 괄호 안의 링크를 복사한 뒤 로컬 경로를 지정하고 Clone 버튼을 눌러주세요
 
 4. 3번에서 설정한 로컬 경로로 이동한 뒤, Excel 등 스프레드시트 편집이 가능한 프로그램을 열고 파일을 드래그&드랍으로 불러와주세요
